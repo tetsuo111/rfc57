@@ -1,0 +1,18 @@
+.event_area{margin-top:20px;}
+.event_div{ position:relative; margin:5px; padding:10px; min-height:110px; font-size:9pt; }
+.bg_b{ background:#F2F8FC; }
+.bg_k{ background:#F5F5F5; }
+.event_div ehr {display: block; margin:10px 0px; border-bottom:1px solid #cccccc; width:100%; hegith:1px;}
+event{ position:relative; display: block; width:100%; min-height:110px; margin:10px 0px 10px 0px; }
+event:hover{opacity: 0.55; cursor:pointer;}
+event e1{ position:absolute; top:0px; left:23px; display: block; width:7px; height:110px; background:#ffffff; }
+event e2{ position:absolute; top:5px; left:40px; }
+event e2 icon1{display: block; float:left; color:#ffffff; background:#9F9282; width:57px; height:40px; line-height:40px; font-size:8pt; text-align:center; border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px; }
+event e2 icon2{display: block; float:left; color:#ffffff; background:#B8B8B8; width:57px; height:20px; line-height:20px; font-size:8pt; text-align:center; border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px; }
+event e2 cont{display: block; float:left; margin:0px 30px 0px 10px; line-height:20px; }
+event e2 cont t{display: block; color:#455D9B; font-weight:800; font-size:10pt;}
+event e2 cboth{display: block; clear: both; padding-top:5px;}
+event e3{ position:absolute; bottom:10px; right:10px; }
+
+.gbFFF .inner a{padding:10px 70px; }
+.h2{margin-left:15px; border-bottom:1px solid #CCCCCC; font-weight:800; width:970px; font-size:16px;}

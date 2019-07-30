@@ -1,0 +1,1 @@
+<div><span>All right reserved <?php echo SITE_NAME;?></span></div>
